@@ -1,0 +1,797 @@
+@media screen and (max-width: 1664px) {
+  .slideshow-personal-description-right-side {
+    margin: 0px;
+    text-align: center;
+    justify-content: space-evenly;
+  }
+
+  .slideshow-personal-description-right-side-top-header {
+    text-align: center;
+  }
+
+  .slideshow-personal-description-left-side-header {
+    display: none;
+  }
+
+  .slideshow-personal-description-left-side {
+    display: none;
+  }
+
+  .slideshow-personal-description-right-side-top-header-about-me {
+    display: none;
+  }
+
+  .slideshow-personal-description-right-side-bottom-header {
+    display: none;
+  }
+
+  .slideshow-personal-description-right-side {
+    padding: 80px;
+  }
+
+  .slideshow {
+    max-width: 800px;
+  }
+
+  .latest-articles-first-part-second-piece-rotated-numbers {
+    font-size: 20px;
+  }
+
+  .latest-articles-second-part-second-piece-rotated-numbers {
+    font-size: 20px;
+  }
+
+  .latest-articles-third-part-second-piece-rotated-numbers {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 1657px) {
+  .section-latest-projects {
+    padding: 203px 200px;
+  }
+}
+
+@media screen and (max-width: 1570px) {
+  .section-services-footer {
+    padding: 0px 350px;
+  }
+
+  .latest-articles-first-part-second-piece-rotated-numbers,
+  .latest-articles-second-part-second-piece-rotated-numbers,
+  .latest-articles-third-part-second-piece-rotated-numbers {
+    font-size: 21px;
+  }
+}
+
+@media screen and (max-width: 1557px) {
+  .section-latest-projects {
+    padding: 203px 180px;
+  }
+
+  .latest-articles-first-part-second-piece-rotated-numbers,
+  .latest-articles-second-part-second-piece-rotated-numbers,
+  .latest-articles-third-part-second-piece-rotated-numbers {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 1517px) {
+  .slideshow-personal-description-right-side-top-header-01 {
+    font-size: 90px;
+  }
+
+  .slideshow-personal-description-right-side-center-header-hi {
+    font-size: 33px;
+  }
+
+  .slideshow-personal-description-right-side-center-header-iAm {
+    font-size: 33px;
+  }
+
+  .slideshow-personal-description-right-side-center-header-developer {
+    font-size: 20px;
+  }
+
+  .section-personal-information-title {
+    font-size: 30px;
+  }
+
+  .section-personal-skills-wrapper-programing-language {
+    font-size: 18px;
+  }
+
+  .section-contact-user-number,
+  .section-contact-user-address,
+  .section-contact-email-address {
+    font-size: 15px;
+  }
+
+  .section-personal-information-developer {
+    font-size: 13px;
+  }
+
+  .section-personal-information-paragraph {
+    font-size: 14px;
+  }
+
+  .slideshow-container {
+    padding: 100px;
+  }
+
+  .section-services-box {
+    font-size: 18px;
+  }
+
+  .section-services-box {
+    width: 240px;
+  }
+
+  .section-latest-projects {
+    padding: 203px 150px;
+  }
+
+  .section-services-paragraph-lorem {
+    font-size: 14px;
+  }
+
+  .section-services-name-mau {
+    font-size: 18px;
+  }
+
+  blockquote::before {
+    font-size: 45px;
+  }
+
+  .section-latest-projects-title {
+    font-size: 36px;
+  }
+
+  .section-latests-project-dropwdown-list {
+    font-size: 14px;
+  }
+
+  .latest-articles-title {
+    font-size: 46px;
+  }
+
+  .latest-articles-first-part-first-piece-laptop-icon,
+  .latest-articles-first-part-first-piece-info,
+  .latest-articles-first-part-first-piece-weather-icon,
+  .latest-articles-second-part-first-piece-info,
+  .latest-articles-third-part-first-piece-man-icon,
+  .latest-articles-third-part-first-piece-info {
+    display: none;
+  }
+
+  .latest-articles-first-part-first-piece-title,
+  .latest-articles-second-part-first-piece-title,
+  .latest-articles-third-part-first-piece-title {
+    font-size: 33px;
+  }
+
+  .rosa-team-title-box-title {
+    font-size: 50px;
+  }
+
+  .form-title {
+    font-size: 40px;
+  }
+
+  .form-lorem {
+    font-size: 15px;
+  }
+
+  .form-input-button {
+    font-size: 13px;
+  }
+
+  .footer-text-title {
+    font-size: 37px;
+  }
+
+  .footer-text-lorem {
+    font-size: 15px;
+  }
+  .section-services-footer {
+    padding: 0px 330px;
+  }
+
+  .all-right-reserved {
+    font-size: 15px;
+  }
+}
+
+@media screen and (max-width: 1483px) {
+  .slideshow-container {
+    padding: 160px;
+  }
+
+  .slideshow-images {
+    width: 75%;
+  }
+
+  .slideshow-personal-description-right-side {
+    padding: 58px;
+  }
+
+  .slideshow-personal-description-right-side-top-header-01 {
+    font-size: 75px;
+  }
+
+  .slideshow-personal-description-right-side-center-header {
+    line-height: 60px;
+  }
+
+  .section-services-box {
+    width: 220px;
+    height: 320px;
+  }
+
+  .section-services-name {
+    display: none;
+  }
+
+  .section-services-dots {
+    display: none;
+  }
+
+  .section-services-footer {
+    padding: 0px 420px;
+  }
+
+  .latest-articles-title {
+    font-size: 40px;
+  }
+
+  .latest-articles-first-part-first-piece-lorem,
+  .latest-articles-second-part-first-piece-lorem,
+  .latest-articles-third-part-first-piece-lorem {
+    font-size: 13px;
+    line-height: 22px;
+  }
+
+  .section-latest-projects {
+    padding: 75px 150px;
+  }
+
+  .section-services-container {
+    padding: 75px 250px;
+  }
+
+  .latest-articls-first-part-third-piece,
+  .latest-articls-third-part-third-piece-image {
+    width: 700px;
+  }
+
+  .rosa-team-title-box {
+    padding: 110px 0px 121px 0px;
+  }
+
+  .rosa-team-box {
+    margin-bottom: 140px;
+  }
+
+  .latest-articles-first-part-first-piece-title,
+  .latest-articles-third-part-first-piece-title,
+  .latest-articles-second-part-first-piece-title {
+    font-size: 22px;
+  }
+
+  .footer {
+    height: 400px;
+  }
+
+  .rosa-team-title-box-title {
+    font-size: 40px;
+  }
+
+  .form-title {
+    font-size: 32px;
+  }
+
+  .form-lorem {
+    font-size: 13px;
+  }
+
+  .form-input-button {
+    font-size: 11px;
+  }
+
+  .form-input-box input {
+    width: 260px;
+  }
+
+  .form-input-message input {
+    width: 788px;
+  }
+
+  .footer-text {
+    padding-top: 100px;
+  }
+}
+
+@media screen and (max-width: 1457px) {
+  .section-latest-projects-box-flex {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1435px) {
+  .section-latest-projects-box-flex {
+    width: 130%;
+  }
+}
+
+@media screen and (max-width: 1403px) {
+  .section-services-container {
+    padding: 75px 200px;
+  }
+}
+
+@media screen and (max-width: 1394px) {
+  .section-latests-project-images {
+    width: 250px;
+  }
+
+  .section-services-footer {
+    padding: 0px 360px;
+  }
+
+  .section-latest-projects-title {
+    font-size: 25px;
+  }
+
+  .section-latest-projects-box-flex {
+    width: 90%;
+  }
+
+  .section-latests-project-dropdown-group {
+    height: 340px;
+  }
+
+  .section-latests-project-dropwdown-list {
+    font-size: 13px;
+  }
+
+  .latest-articles-title {
+    font-size: 30px;
+  }
+
+  .rosa-team-title-box-title {
+    font-size: 34px;
+  }
+
+  .rosa-team-title-box-info {
+    font-size: 12px;
+  }
+
+  .footer-text-title {
+    font-size: 32px;
+  }
+
+  .footer-text-lorem {
+    font-size: 13px;
+  }
+
+  .footer-text {
+    padding-top: 75px;
+  }
+
+  .footer {
+    height: 355px;
+  }
+
+  .all-right-reserved {
+    font-size: 13px;
+  }
+}
+
+@media screen and (max-width: 1303px) {
+  .slideshow-personal-description-right-side {
+    padding: 70px;
+  }
+
+  .slideshow-personal-description-right-side-top-header-01 {
+    font-size: 50px;
+  }
+
+  .slideshow-personal-description-right-side-center-header-iAm {
+    font-size: 35px;
+  }
+
+  .slideshow-personal-description-right-side-center-header-hi {
+    font-size: 20px;
+  }
+  .slideshow-personal-description-right-side-center-header-developer {
+    font-size: 15px;
+  }
+
+  .section-container {
+    max-width: 1000px;
+  }
+
+  .section-personal-information-paragraph {
+    font-size: 12px;
+    line-height: 25px;
+  }
+
+  .section-personal-information-title {
+    font-size: 26px;
+  }
+
+  .section-personal-information-developer {
+    font-size: 12px;
+  }
+
+  .section-personal-skills-wrapper-programing-language {
+    font-size: 16px;
+  }
+
+  .section-contact-user-number,
+  .section-contact-user-address,
+  .section-contact-email-address {
+    font-size: 13px;
+  }
+
+  .section-contact-phone-number,
+  .section-contact-location-icon,
+  .section-contact-email-icon {
+    width: 50px;
+  }
+
+  .section-services-container {
+    padding: 75px 110px;
+  }
+
+  .seciton-services-box-image {
+    width: 48px;
+  }
+
+  .section-services-box {
+    font-size: 16px;
+  }
+
+  .section-services-box {
+    height: 250px;
+  }
+
+  .section-services-footer {
+    padding: 0px 345px;
+  }
+
+  .section-services-image-pink-circle {
+    width: 110px;
+    height: 110px;
+  }
+
+  .section-latest-projects-title {
+    font-size: 20px;
+  }
+
+  .section-latests-project-images {
+    width: 220px;
+  }
+
+  .section-latests-project-dropdown-group {
+    height: 300px;
+  }
+
+  .section-latests-project-dropwdown-list {
+    font-size: 11px;
+  }
+
+  .latest-articles-title {
+    font-size: 24px;
+  }
+
+  .latest-articles-info {
+    font-size: 11px;
+  }
+
+  .latest-articls-first-part-third-piece,
+  .latest-articls-third-part-third-piece-image,
+  .latest-articles-second-part-first-piece-image {
+    width: 600px;
+  }
+
+  .latest-articles-first-part-first-piece,
+  .latest-articles-second-part-third-piece,
+  .latest-articles-third-part-first-piece {
+    padding-bottom: 100px;
+  }
+
+  .form-input-message input {
+    width: 700px;
+  }
+
+  .form-input-box input {
+    width: 230px;
+  }
+}
+
+@media screen and (max-width: 1231px) {
+  .section-services-footer {
+    padding: 0px 315px;
+  }
+
+  .latest-articles-first-part-second-piece-rotated-numbers,
+  .latest-articles-second-part-second-piece-rotated-numbers,
+  .latest-articles-third-part-second-piece-rotated-numbers {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 1202px) {
+  .section-latests-project-dropdown-group {
+    width: 90px;
+  }
+
+  .latest-articles-first-part-first-piece,
+  .latest-articles-second-part-third-piece,
+  .latest-articles-third-part-first-piece {
+    padding-left: 130px;
+    padding-right: 140px;
+  }
+
+  .form-input-message input {
+    width: 640px;
+  }
+
+  .form-input-box input {
+    width: 211px;
+  }
+}
+
+@media screen and (max-width: 1086px) {
+  .slideshow-container {
+    padding: 10px 100px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+
+  .dot-nav {
+    display: none;
+  }
+
+  .section-container {
+    max-width: 960px;
+  }
+
+  .section-contact {
+    width: 100%;
+  }
+
+  .section-services-container {
+    padding: 75px 230px;
+  }
+
+  .section-services-box {
+    height: 210px;
+  }
+
+  .seciton-services-box-image {
+    width: 40px;
+  }
+
+  .section-services-footer {
+    padding: 38px 0px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .section-services-paragraph-lorem {
+    text-align: center;
+  }
+
+  .section-latest-projects {
+    padding: 75px 230px;
+  }
+
+  .section-latests-project-dropdown-group {
+    height: 450px;
+  }
+}
+
+@media screen and (max-width: 1046px) {
+  .latest-articls-first-part-third-piece {
+    width: 475px;
+  }
+  .latest-articles-second-part-first-piece-image {
+    width: 475px;
+  }
+
+  .latest-articls-third-part-third-piece-image {
+    width: 475px;
+  }
+}
+
+@media screen and (max-width: 1018px) {
+  .slideshow-images {
+    width: 70%;
+  }
+
+  .section-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 40px 0px 40px 0px;
+  }
+
+  .section-image {
+    width: 25%;
+  }
+
+  .section-personal-information {
+    padding: 0px;
+  }
+
+  .section-personal-information-title,
+  .section-personal-information-developer {
+    text-align: center;
+  }
+
+  .section-personal-information-button {
+    display: flex;
+    margin: 0 auto;
+  }
+
+  .section-personal-information-button-div {
+    padding: 35px 0px;
+  }
+
+  .section-personal-skills {
+    padding: 0px;
+  }
+
+  .section-latests-projects-box {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .section-latests-project-dropdown-group {
+    height: 100px;
+    width: 500px;
+  }
+
+  .section-latests-project-dropwdown-list {
+    display: flex;
+    gap: 22px;
+  }
+
+  .section-latest-projects-box-flex {
+    padding: auto;
+    gap: 10px;
+  }
+
+  .section-latests-projects-box {
+    align-items: center;
+  }
+
+  .section-latests-project-dropdown-group {
+    width: 457px;
+  }
+
+  .section-latest-projects-box-flex {
+    padding: 25px;
+  }
+
+  .latest-articls-first-part-third-piece {
+    width: 450px;
+  }
+
+  .latest-articles-second-part-first-piece-image {
+    width: 450px;
+  }
+
+  .latest-articls-third-part-third-piece-image {
+    width: 450px;
+  }
+
+  .form-input-message input {
+    width: 480px;
+  }
+
+  .form-input-box input {
+    width: 157px;
+  }
+
+  .form-title {
+    font-size: 28px;
+  }
+
+  .form-lorem {
+    font-size: 11px;
+  }
+
+  .footer-text-title {
+    font-size: 24px;
+  }
+
+  .footer-text-lorem {
+    font-size: 11px;
+  }
+
+  .all-right-reserved {
+    font-size: 11px;
+  }
+
+  .footer-text {
+    padding-top: 50px;
+  }
+
+  .form-title-box {
+    padding-top: 50px;
+  }
+
+  .form-container {
+    height: 450px;
+  }
+
+  .footer {
+    height: 290px;
+  }
+}
+
+@media screen and (max-width: 1015px) {
+  .slideshow-images {
+    width: 60%;
+  }
+
+  .slideshow-personal-description-right-side-top-header-01 {
+    display: none;
+  }
+
+  .slideshow-container {
+    padding: 0px 90px;
+  }
+
+  .section-latests-project-images {
+    width: 170px;
+  }
+
+  .section-latest-projects-box-flex {
+    padding: 0px;
+    gap: 10 px;
+  }
+
+  .section-latests-project-images {
+    width: 145px;
+  }
+
+  .section-latest-projects-box-flex {
+    justify-content: center;
+    padding-top: 10px;
+  }
+
+  .latest-articles-first-part-first-piece-lorem,
+  .latest-articles-second-part-first-piece-lorem,
+  .latest-articles-third-part-first-piece-lorem {
+    font-size: 11px;
+  }
+
+  .latest-articles-first-part-first-piece-title,
+  .latest-articles-third-part-first-piece-title,
+  .latest-articles-second-part-first-piece-title {
+    font-size: 15px;
+  }
+
+  .rosa-team-title-box {
+    padding: 80px 0px 80px 0px;
+  }
+
+  .rosa-team-box {
+    margin-bottom: 80px;
+  }
+
+  .rosa-team-title-box-info {
+    display: none;
+  }
+
+  .latest-articles-info {
+    display: none;
+  }
+}
